@@ -1,0 +1,16 @@
+{
+  "name": "iswebglcontext",
+  "main": "iswebglcontext",
+  "version": "0.0.1",
+  "description": "iswebglcontext value to determine usability of canvas",
+  "author": "Chris <chris@bumblehead.com>",
+  "license" : "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iambumblehead/iswebglcontext.git"
+  },
+  "keywords": [
+    "iswebgl"
+  ]
+}
